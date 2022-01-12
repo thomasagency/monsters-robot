@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-robot/static/css/main.a7356d86.css",
+    "main.js": "/monsters-robot/static/js/main.af121c16.js",
+    "static/js/787.d301a0aa.chunk.js": "/monsters-robot/static/js/787.d301a0aa.chunk.js",
+    "index.html": "/monsters-robot/index.html",
+    "main.a7356d86.css.map": "/monsters-robot/static/css/main.a7356d86.css.map",
+    "main.af121c16.js.map": "/monsters-robot/static/js/main.af121c16.js.map",
+    "787.d301a0aa.chunk.js.map": "/monsters-robot/static/js/787.d301a0aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7356d86.css",
+    "static/js/main.af121c16.js"
+  ]
+}
